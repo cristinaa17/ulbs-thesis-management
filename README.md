@@ -1,4 +1,4 @@
-# Teme de Licență ULBS 🎓
+# Teme de Licență ULBS 
 
 Aplicație web destinată gestionării și consultării temelor de licență din cadrul Universității „Lucian Blaga” din Sibiu (ULBS).
 
@@ -26,6 +26,12 @@ Acest repository conține o versiune inițială a aplicației, dezvoltată în c
 Ulterior, proiectul a fost extins și îmbunătățit în cadrul unei etape de dezvoltare colaborativă, prin contribuția unei echipe.
 
 Versiunea prezentată aici reflectă etapa inițială a dezvoltării și păstrează implementarea aferentă acesteia.
+
+## Aplicația live
+
+Aplicația este disponibilă online într-o versiune funcțională și se află în continuă dezvoltare. Funcționalitățile și interfața pot evolua pe măsură ce proiectul este îmbunătățit.
+
+Repository-ul de față documentează o etapă anterioară a dezvoltării aplicației.
 
 ## Contribuție personală
 
