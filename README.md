@@ -1,59 +1,37 @@
-# TemeLicenta
+# Teme de Licență ULBS 🎓
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.1.4.
+Aplicație web destinată gestionării și consultării temelor de licență din cadrul Universității „Lucian Blaga” din Sibiu (ULBS).
 
-## Development server
+Proiectul urmărește digitalizarea procesului de publicare, administrare și explorare a temelor de licență, facilitând interacțiunea dintre studenți, profesori și administratori.
 
-To start a local development server, run:
+## Obiective
 
-```bash
-ng serve
-```
+- Centralizarea temelor de licență într-o platformă web.
+- Facilitarea identificării temelor de interes pentru studenți.
+- Simplificarea administrării temelor și a informațiilor asociate.
+- Integrarea cu serviciile și datele relevante din mediul universitar.
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+## Tehnologii utilizate
 
-## Code scaffolding
+- **Frontend:** Angular, TypeScript
+- **Backend:** Node.js, Express
+- **Bază de date:** PostgreSQL
+- **ORM:** Prisma
+- **Infrastructură:** Docker
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+## Despre dezvoltarea proiectului
 
-```bash
-ng generate component component-name
-```
+Acest repository conține o versiune inițială a aplicației, dezvoltată în cadrul unui proiect universitar.
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+Ulterior, proiectul a fost extins și îmbunătățit în cadrul unei etape de dezvoltare colaborativă, prin contribuția unei echipe.
 
-```bash
-ng generate --help
-```
+Versiunea prezentată aici reflectă etapa inițială a dezvoltării și păstrează implementarea aferentă acesteia.
 
-## Building
+## Contribuție personală
 
-To build the project run:
+Am contribuit la dezvoltarea versiunii inițiale a aplicației, participând la implementarea funcționalităților și la construirea bazei tehnice a proiectului.
 
-```bash
-ng build
-```
+## Stadiul proiectului
 
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
+Versiunea din acest repository reprezintă o etapă anterioară a proiectului. Dezvoltarea ulterioară a continuat în repository-ul organizației.
 
-## Running unit tests
-
-To execute unit tests with the [Vitest](https://vitest.dev/) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
